@@ -1,0 +1,44 @@
+.profile-container {
+    background-color: #fe6433;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    border-radius: 10px;
+  }
+  
+  .profile-header {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .profile-info {
+    padding: 20px;
+  }
+  
+  strong {
+    color: #000000;
+  }
+  
+  .profile-social {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  a {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    text-decoration: none;
+  }
